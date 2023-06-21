@@ -1,0 +1,18 @@
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\bin\Debug\net7.0-windows\kus avlama oyunu.exe
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\bin\Debug\net7.0-windows\kus avlama oyunu.deps.json
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\bin\Debug\net7.0-windows\kus avlama oyunu.runtimeconfig.json
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\bin\Debug\net7.0-windows\kus avlama oyunu.dll
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\bin\Debug\net7.0-windows\kus avlama oyunu.pdb
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.csproj.AssemblyReference.cache
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus_avlama_oyunu.Form1.resources
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus_avlama_oyunu.Properties.Resources.resources
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.csproj.GenerateResource.cache
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.AssemblyInfoInputs.cache
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.AssemblyInfo.cs
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.csproj.CoreCompileInputs.cache
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.dll
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\refint\kus avlama oyunu.dll
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.pdb
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\kus avlama oyunu.genruntimeconfig.cache
+C:\Users\mczen\source\repos\kus avlama oyunu\kus avlama oyunu\obj\Debug\net7.0-windows\ref\kus avlama oyunu.dll
